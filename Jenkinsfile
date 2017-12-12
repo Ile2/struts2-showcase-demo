@@ -5,7 +5,7 @@ node () {
     
    stage('Preparation') { // for display purposes
       // Get some code from a GitHub repository
-      // git 'git@github.com:CMYanko/struts2-showcase-demo.git'
+      // git 'git@github.com:cjohnson/struts2-showcase-demo.git'
       checkout scm
       
       
